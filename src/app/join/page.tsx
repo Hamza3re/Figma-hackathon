@@ -126,11 +126,3 @@ const Join = () => {
 }
 
 export default Join
-
-
-
-        </div>
-    )
-}
-
-export default Join
